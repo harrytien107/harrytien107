@@ -52,4 +52,5 @@ Want to Donate!? [Click Here](./DONATE.md)
 
 ### Activity 👩‍💻
 
-![Hrry Tien's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harrytien107&theme=tokyonight)
+<!--![Harry Tien's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harrytien107&theme=tokyonight)-->
+![Harry Tien's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrytien107&show_icons=true&theme=synthwave)
