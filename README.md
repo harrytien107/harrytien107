@@ -1,6 +1,6 @@
-# Hi 👋, I'm Harry Tien
+# Yo 👌, I'm Harry Tien
 
-### A passionate *Gamer | IT | Freelancer* from VietNam
+### A passionate *Gamer | IT | Freelancer* 
 
 ![view counter](https://komarev.com/ghpvc/?username=harrytien107&label=Profile%20views&color=0e75b6&style=flat-square)
 
