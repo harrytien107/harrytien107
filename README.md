@@ -54,3 +54,5 @@ Want to Donate!? [Click Here](./DONATE.md)
 
 ![Harry Tien's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=harrytien107&theme=synthwave)
 <!--![Harry Tien's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrytien107&show_icons=true&theme=synthwave)-->
+
+ <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer">
