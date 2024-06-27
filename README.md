@@ -1,12 +1,13 @@
 # Yo 👌, I'm Harry Tien
 
 ### A passionate *Gamer | IT | Freelancer* 
+![Code Time](http://img.shields.io/badge/Code%20-I'm%20just%20code%20for%20fun-purple)
 
 ![view counter](https://komarev.com/ghpvc/?username=harrytien107&label=Profile%20views&color=0e75b6&style=flat-square)
 
 ![](https://hit.yhype.me/github/profile?user_id=36368107)
 
-## Donate !!!!
+## Support me !!!!
 
 Want to Donate!? [Click Here](./DONATE.md)
 
