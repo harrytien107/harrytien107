@@ -1,6 +1,7 @@
 # Yo 👌, I'm Harry Tien
 
 ### A passionate *Gamer | IT | Freelancer* 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=07F73D&width=435&lines=%E2%8C%A8%EF%B8%8F+Welcome+to+my+Github+profile+!;%F0%9F%97%BF+My+name+is+Harry+Tien." alt="Typing SVG" /></a>
 ![Code Time](http://img.shields.io/badge/Code%20-I'm%20just%20code%20for%20fun-purple)
 
 ![view counter](https://komarev.com/ghpvc/?username=harrytien107&label=Profile%20views&color=0e75b6&style=flat-square)
