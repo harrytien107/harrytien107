@@ -59,16 +59,16 @@ Want to Donate? [Click Here](./DONATE.md)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrytien107&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="harrytien107" /></a> </p>
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=harrytien107&show_icons=true&locale=en&theme=tokyonight)
+<!-- ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=harrytien107&show_icons=true&locale=en&theme=tokyonight)
 ![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=harrytien107&theme=tokyonight)
-![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=harrytien107&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=harrytien107&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight) -->
 
-<!-- <div id="header" align="center">
+<div id="header" align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=harrytien107&show_icons=true&locale=en&theme=tokyonight" alt=""/>
   </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harrytien107&theme=tokyonight" alt=""/></br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harrytien107&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt=""/>
-</div> -->
+</div>
 
 ### Activity 👩‍💻
 
