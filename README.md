@@ -7,12 +7,14 @@
 
 <!-- ![view counter](https://komarev.com/ghpvc/?username=harrytien107&label=Profile%20views&color=0e75b6&style=flat-square) -->
 [![](https://visitcount.itsvg.in/api?id=harrytien107&label=&color=11&icon=3&pretty=true)](https://visitcount.itsvg.in)
-
+<!-- <div align="right">
+    <img align="right" src="">
+</div> -->
 
 ## Support me !!!!
 
 Want to Donate!? [Click Here](./DONATE.md)
-
+<img align="right" height="200" src="./assets/anime.gif"  />
 ### Overview
 
 -  I’m currently learning **C++**
@@ -22,7 +24,7 @@ Want to Donate!? [Click Here](./DONATE.md)
 
 ### Contact me 😉
 
-<div><a href="https://www.facebook.com/tien.harry.505" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a> <a href="https://discord.com/#4380" target="blank"><img align="center" src="https://img.shields.io/badge/discord-436EEE?style=for-the-badge&logo=discord&logoColor=white"/></a> <a href="https://t.me/harrytienthereal" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<div><a href="https://www.facebook.com/tien.harry.505" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="facebook"/></a> <a href="https://discord.com/#4380" target="blank"><img align="center" src="https://img.shields.io/badge/discord-436EEE?style=for-the-badge&logo=discord&logoColor=white" height="35"/></a> <a href="https://t.me/harrytienthereal" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white" height="35"/></a>
 <!-- <a href="https://linkedin.com/in/99-hoangtran" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://stackoverflow.com/users/11898496" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="facebook"/></a>
 <a href="https://codepen.io/hoanghien0410" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="facebook"/></a>
@@ -60,23 +62,21 @@ Want to Donate!? [Click Here](./DONATE.md)
 
 ### GitHub Stats 📈
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrytien107&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="harrytien107" /></a> </p>-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrytien107&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="harrytien107" /></a> </p>
 
-<!-- ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=harrytien107&show_icons=true&locale=en&theme=tokyonight)
-
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=harrytien107&show_icons=true&locale=en&theme=tokyonight)
 ![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=harrytien107&theme=tokyonight)
-
-![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=harrytien107&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight) -->
-<div id="header" align="center">
+![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=harrytien107&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight) 
+<!-- <div id="header" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harrytien107&show_icons=true&locale=en&theme=tokyonight" alt=""/>
   </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harrytien107&theme=tokyonight" alt=""/></br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harrytien107&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt=""/>
-</div>
+</div> -->
 
 ### Activity 👩‍💻
 
-![Harry Tien's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=harrytien107&theme=synthwave)
+![Harry Tien's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=harrytien107&theme=tokyonight)
 <!--![Harry Tien's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrytien107&show_icons=true&theme=synthwave)-->
 
  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer">
