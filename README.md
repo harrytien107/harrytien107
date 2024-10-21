@@ -13,7 +13,7 @@
 
 ## Support me !!!!
 
-<p><a href="https://buymeacoffee.com/zeentien12y"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="200
+<p><a href="https://buymeacoffee.com/zeentien12y"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210
 " alt="zeentien12y" /></a></p><br><br>
 
 Want to Donate!? [Click Here](./DONATE.md)
