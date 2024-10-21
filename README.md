@@ -61,7 +61,8 @@ Want to Donate? [Click Here](./DONATE.md)
 
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=harrytien107&show_icons=true&locale=en&theme=tokyonight)
 ![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=harrytien107&theme=tokyonight)
-![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=harrytien107&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight) 
+![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=harrytien107&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+
 <!-- <div id="header" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harrytien107&show_icons=true&locale=en&theme=tokyonight" alt=""/>
   </br>
