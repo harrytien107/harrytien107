@@ -21,8 +21,6 @@ jobs:
           AUTHOR_EMAIL: zeentien.123@gmail.com
           ### decoration
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          CODE_LANG : C++
-          CODE_LANG : Python
-          CODE_LANG : PowerShell
+          CODE_LANG : C++,Python,Java,JavaScript,TypeScript
           # LANG_COUNT: 5
 
