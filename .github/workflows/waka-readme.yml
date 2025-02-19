@@ -21,6 +21,6 @@ jobs:
           AUTHOR_EMAIL: zeentien.123@gmail.com
           ### decoration
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          CODE_LANG : python, javascript, html, css, c, c++, java, shell
+          CODE_LANG : Python, Javascript, Html, Css, C, C++, Java, Shell
           # LANG_COUNT: 5
 
