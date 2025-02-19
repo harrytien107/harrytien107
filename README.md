@@ -75,7 +75,7 @@ Want to Donate? [Click Here](./DONATE.md)
 
 <!--START_SECTION:waka-->
 
-```Python, Javascript, Html, Css, C, C++, Java, Shell
+```C++,Python,Java,JavaScript,TypeScript
 C++          5 hrs 37 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.33 %
 Python       2 hrs 28 mins   ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.81 %
 SQL          1 hr 23 mins    ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.92 %
