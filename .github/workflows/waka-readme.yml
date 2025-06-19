@@ -14,7 +14,8 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} ### meta
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}          
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          TIME_RANGE: all_time          
           COMMITTER_NAME: harrytien107
           COMMITTER_EMAIL: zeentien.123@gmail.com
           AUTHOR_NAME: harrytien107
