@@ -8,7 +8,8 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme Activity
+    # name: WakaReadme Activity
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       # - uses: athul/waka-readme@master # this action name
@@ -17,28 +18,27 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} ### meta
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # TIME_RANGE: all_time          
-          COMMIT_USERNAME: harrytien107
-          COMMIT_EMAIL: zeentien.123@gmail.com
+          # COMMIT_USERNAME: harrytien107
+          # COMMIT_EMAIL: zeentien.123@gmail.com
           # AUTHOR_NAME: harrytien107
           # AUTHOR_EMAIL: zeentien.123@gmail.com
-          COMMIT_BY_ME: "True"
-          SHOW_UPDATED_DATE: "False"
-          SECTION_NAME: 🗿 Languages
-          SHOW_LANGUAGE: "True"
+          # COMMIT_BY_ME: "True"
+          # SHOW_UPDATED_DATE: "False"
+          # SHOW_LANGUAGE: "True"
 
-          SHOW_EDITORS: "True"
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_COMMIT: "False"
-          SHOW_LINES_OF_CODE: "False"
-          SHOW_LOC_CHART: "False"
-          SHOW_TOTAL_CODE_TIME: "False"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_TIMEZONE: "False"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_SHORT_INFO: "False"
+          # SHOW_EDITORS: "True"
+          # SHOW_OS: "False"
+          # SHOW_PROJECTS: "False"
+          # SHOW_COMMIT: "False"
+          # SHOW_LINES_OF_CODE: "False"
+          # SHOW_LOC_CHART: "False"
+          # SHOW_TOTAL_CODE_TIME: "False"
+          # SHOW_PROFILE_VIEWS: "False"
+          # SHOW_TIMEZONE: "False"
+          # SHOW_LANGUAGE_PER_REPO: "False"
+          # SHOW_SHORT_INFO: "False"
           ### decoration
           # BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          SYMBOL_VERSION: 3
-          LOCALE: "en"
+          # SYMBOL_VERSION: 3
+          # LOCALE: "en"
 
