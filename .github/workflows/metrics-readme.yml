@@ -42,6 +42,7 @@ jobs:
           
           # Steam plugin configuration
           plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: harytien
           plugin_steam_sections: player, most-played, recently-played
           plugin_steam_games_limit: 1
