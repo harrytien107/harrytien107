@@ -19,13 +19,13 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SECTION_NAME: "waka-alt"
           ### content
-          SHOW_TITLE: true
+          SHOW_TITLE: false
           TIME_RANGE: all_time          
           COMMITTER_NAME: harrytien107
           COMMITTER_EMAIL: zeentien.123@gmail.com
           AUTHOR_NAME: harrytien107
           AUTHOR_EMAIL: zeentien.123@gmail.com
-          LANG_COUNT: 10
+          LANG_COUNT: 5
           SHOW_TOTAL: true
           IGNORED_LANGUAGES: YAML JSON TOML
           ### decoration
