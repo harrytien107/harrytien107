@@ -91,6 +91,6 @@ HTML                               24 hrs 43 mins  ⣿⣿⣄⣀⣀⣀⣀⣀⣀�
 <!--START_SECTION:waka-alt-->
 <!--END_SECTION:waka-alt-->
 
-
+![Metrics](https://metrics.lecoq.io/?template=classic&anilist=1&steam=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&anilist=false&anilist.user=.user.login&anilist.medias=anime%2C%20manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&steam=false&steam.sections=player%2C%20most-played%2C%20recently-played&steam.user=harytien&steam.games.limit=1&steam.recent.games.limit=1&steam.achievements.limit=2&steam.playtime.threshold=2&config.timezone=Asia%2FSaigon)
 
  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer">
