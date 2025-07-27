@@ -100,6 +100,6 @@ Windows                  7 hrs 27 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ### My Anilist & Steam Stats 🎮
 
 <!-- Anilist and Steam Metrics -->
-![Metrics](https://metrics.lecoq.io/harrytien107?template=classic&anilist=1&steam=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&anilist=true&anilist.user=Harytien&anilist.medias=anime%2C%20manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&steam=true&steam.sections=player%2C%20most-played%2C%20recently-played&steam.user=harytien&steam.games.limit=1&steam.recent.games.limit=1&steam.achievements.limit=2&steam.playtime.threshold=2&config.timezone=Asia%2FSaigon)
+![Metrics](./github-metrics.svg)
 
  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer">
