@@ -30,7 +30,7 @@ jobs:
         #   template: classic
         #   base: header, activity, community, repositories, metadata
         base: ""
-        base.skip: true
+        # base.skip: true
         #   config_timezone: Asia/Saigon
           
           # Anilist plugin configuration
