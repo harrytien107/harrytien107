@@ -1,8 +1,8 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  # Schedule updates (daily)
+  schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -15,32 +15,21 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
-          # token: ${{ secrets.METRICS_TOKEN }}
           token: ${{ secrets.GH_TOKEN }}
 
           # Options
-        #   user: harrytien107
-        #   template: classic
-        #   base: header, activity, community, repositories, metadata
-        base: ""
-        # base.skip: true
-        #   config_timezone: Asia/Saigon
+          user: harrytien107
+          template: classic
+          base: ""
+          config_timezone: Asia/Saigon
           
           # Anilist plugin configuration
           plugin_anilist: yes
           plugin_anilist_user: Harytien
           plugin_anilist_medias: anime, manga
-        #   plugin_anilist_sections: favorites
-          plugin_anilist_sections: characters
-          plugin_anilist_limit: 4
-          plugin_anilist_limit_characters: 10
+          plugin_anilist_sections: favorites
+          plugin_anilist_limit: 2
+          plugin_anilist_limit_characters: 22
           plugin_anilist_shuffle: yes
           
           # Steam plugin configuration
