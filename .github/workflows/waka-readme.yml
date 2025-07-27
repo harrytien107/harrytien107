@@ -16,7 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} ### meta
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          TIME_RANGE: all_time          
+          # TIME_RANGE: all_time          
           COMMIT_USERNAME: harrytien107
           COMMIT_EMAIL: zeentien.123@gmail.com
           # AUTHOR_NAME: harrytien107
@@ -39,6 +39,6 @@ jobs:
           SHOW_SHORT_INFO: "False"
           ### decoration
           # BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          SYMBOL_VERSION: 2
+          SYMBOL_VERSION: 3
           LOCALE: "en"
 
