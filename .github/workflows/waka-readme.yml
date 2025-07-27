@@ -17,6 +17,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} ### meta
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SECTION_NAME: "waka"
           # TIME_RANGE: all_time          
           COMMIT_USERNAME: harrytien107
           COMMIT_EMAIL: zeentien.123@gmail.com

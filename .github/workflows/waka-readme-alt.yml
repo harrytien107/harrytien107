@@ -17,9 +17,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} ### meta
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SECTION_NAME: "waka-alt"
           ### content
           SHOW_TITLE: true
-          SECTION_NAME: 🗿 Coding Activity
           TIME_RANGE: all_time          
           COMMITTER_NAME: harrytien107
           COMMITTER_EMAIL: zeentien.123@gmail.com

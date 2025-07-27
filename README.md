@@ -73,24 +73,14 @@ Want to Donate? [Click Here](./DONATE.md)
 
 <!-- ![Harry Tien's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=harrytien107&theme=tokyonight) -->
 
+<!-- First Waka stats section -->
 <!--START_SECTION:waka-->
-
-```txt
-From: 21 June 2024 - To: 26 July 2025
-
-Total Time: 284 hrs 25 mins
-
-C++                                84 hrs 59 mins  ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.48 %
-SQL                                27 hrs 38 mins  ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.59 %
-Java                               27 hrs 23 mins  ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.50 %
-CSS                                26 hrs 29 mins  ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.19 %
-HTML                               24 hrs 43 mins  ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.58 %
-PHP                                16 hrs 24 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.69 %
-Markdown                           12 hrs 5 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.19 %
-Python                             8 hrs 28 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.94 %
-PowerShell                         6 hrs 45 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.34 %
-```
-
 <!--END_SECTION:waka-->
+
+<!-- Second Waka stats section with different configuration -->
+<!--START_SECTION:waka-alt-->
+<!--END_SECTION:waka-alt-->
+
+
 
  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer">
