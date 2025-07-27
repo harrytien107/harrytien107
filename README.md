@@ -88,7 +88,6 @@ HTML                               24 hrs 43 mins  ⣿⣿⣄⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-<!-- Second Waka stats section with different configuration -->
 <!--START_SECTION:waka-alt-->
 <!--END_SECTION:waka-alt-->
 

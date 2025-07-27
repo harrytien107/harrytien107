@@ -4,7 +4,7 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    - cron: "*/5 * * * *" # every 5 minutes  
+    - cron: "*/30 * * * *" # every 30 minutes  
 
 jobs:
   update-readme:
@@ -21,8 +21,8 @@ jobs:
           # TIME_RANGE: all_time          
           COMMIT_USERNAME: harrytien107
           COMMIT_EMAIL: zeentien.123@gmail.com
-          AUTHOR_NAME: harrytien107
-          AUTHOR_EMAIL: zeentien.123@gmail.com
+          # AUTHOR_NAME: harrytien107
+          # AUTHOR_EMAIL: zeentien.123@gmail.com
           COMMIT_BY_ME: "True"
           SHOW_UPDATED_DATE: "False"
           SHOW_LANGUAGE: "True"
