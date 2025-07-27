@@ -40,9 +40,5 @@ jobs:
           ### decoration
           # BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SYMBOL_VERSION: 2
-          
-
           LOCALE: "en"
-          SHOW_LANGUAGE: "True"
-          SHOW_EDITORS: "True"
 
