@@ -65,8 +65,11 @@ Want to Donate? [Click Here](./DONATE.md)
 
 <p align="center">
 <a href="https://github.com/harrytien107">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harrytien107&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=harrytien107&count_private=true&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harrytien107&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=harrytien107&count_private=true&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight"/>
+  
   <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=harrytien107&theme=tokyonight&ring=EB5454"/>
 
 ### Activity 👩‍💻
@@ -95,9 +98,9 @@ Windows                  1 hr 52 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
 <!--START_SECTION:waka-alt-->
 <!--END_SECTION:waka-alt-->
-### My Anilist & Steam Stats 🎮
+### My Anilist & Spotify Stats 🎮
 
-<!-- Anilist and Steam Metrics -->
+<!-- Anilist and Spotify Metrics -->
 ![Metrics](./github-metrics.svg)
 
  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer">

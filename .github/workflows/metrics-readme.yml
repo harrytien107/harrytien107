@@ -49,6 +49,6 @@ jobs:
           plugin_music_playlist: <iframe src="https://open.spotify.com/embed/playlist/1I70cyeJ76eH51i4Enj5Ig" width="" height="" frameborder="0" allowtransparency="" allow=""></iframe>
           plugin_music_token: ${{ secrets.SPOTIFY_CLIENT_ID }},${{ secrets.SPOTIFY_CLIENT_SECRET }},${{ secrets.SPOTIFY_REFRESH_TOKEN }}
           plugin_music_time_range: short
-          plugin_music_limit: 4
+          plugin_music_limit: 6
           plugin_music_played_at: yes
 
