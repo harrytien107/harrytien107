@@ -90,38 +90,37 @@ Want to Donate? [Click Here](./DONATE.md)
 
 ```text
 💬 Programming Languages: 
-JSON                     1 hr 21 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   48.71 % 
-PowerShell               1 hr                ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.38 % 
-Other                    24 mins             ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.76 % 
-Text                     0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.15 % 
+PowerShell               58 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜   90.94 % 
+Other                    4 mins              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.71 % 
+JSON                     1 min               ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.34 % 
 
 🔥 Editors: 
-VS Code                  1 hr 29 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   53.53 % 
-Codex Vscode             1 hr 17 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   46.47 % 
+VS Code                  1 hr                ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜   93.29 % 
+Codex Vscode             4 mins              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.71 % 
 
 💻 Operating System: 
-Windows                  2 hrs 46 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Windows                  1 hr 4 mins         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 28 mins (53.07%)
+⏱ AI Coding Time: 4 mins (6.71%)
 
-✍️ 0 lines written by AI, 37 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 11 lines written by hand (0.0% AI-written)
 
-🔤 4,181,783 Input Tokens, 23,515 Output Tokens
+🔤 117,067 Input Tokens, 1,528 Output Tokens
 
-💵 $8.85 Estimated AI Cost This Week
+💵 $0.50 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 13 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 GPT                      0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,028 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 242 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
