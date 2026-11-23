@@ -7,11 +7,6 @@
 
 <!-- ![view counter](https://komarev.com/ghpvc/?username=harrytien107&label=Profile%20views&color=0e75b6&style=flat-square) -->
 
-[![](https://visitcount.itsvg.in/api?id=harrytien107&label=&color=11&icon=3&pretty=true)](https://visitcount.itsvg.in)
-
-<!-- <div align="right">
-    <img align="right" src="">
-</div> -->
 
 ## Support me !!!!
 
@@ -23,7 +18,7 @@ Want to Donate? [Click Here](./DONATE.md)
 
 ### Overview
 
-- I'm currently learning **CCNA**
+- I'm currently learning **CCNA**, **AI/ML**, **cybersecurity**
 
 - How to reach me **zeentien.123@gmail.com**
 
@@ -63,53 +58,18 @@ Want to Donate? [Click Here](./DONATE.md)
 
 ### GitHub Stats 📈
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrytien107&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="harrytien107" /></a> </p> -->
-
 <!-- ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=harrytien107&show_icons=true&locale=en&theme=tokyonight)
 ![github-readme-streak-stats](https://github-readme-streak-stats-eight.vercel.app/?user=harrytien107&theme=tokyonight&ring=EB5454)
 ![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=harrytien107&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight) -->
 
 <p align="center">
 <a href="https://github.com/harrytien107">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harrytien107&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=harrytien107&show_icons=true&include_all_commits=true&theme=tokyonight"/>
   
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=harrytien107&count_private=true&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=harrytien107&layout=compact&langs_count=6&theme=tokyonight"/>
   
   <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=harrytien107&theme=tokyonight&ring=EB5454"/>
 
-### Activity 👩‍💻
-
-<!-- ![Harry Tien's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=harrytien107&theme=tokyonight) -->
-
-<!-- First Waka stats section -->
-<!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%2026%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-alt-->
-<!--END_SECTION:waka-alt-->
 ### My AniList Stats 🎮
 
 <!-- AniList Metrics -->
