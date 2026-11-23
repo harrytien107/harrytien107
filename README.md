@@ -110,9 +110,9 @@ No AI Coding Activity Tracked This Week
 
 <!--START_SECTION:waka-alt-->
 <!--END_SECTION:waka-alt-->
-### My Anilist & Spotify Stats 🎮
+### My AniList Stats 🎮
 
-<!-- Anilist and Spotify Metrics -->
+<!-- AniList Metrics -->
 ![Metrics](./github-metrics.svg)
 
  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer">
