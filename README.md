@@ -1,35 +1,42 @@
-<div align="center">
+# Yo 👌, I'm Harry Tien
 
-# Hi, I'm Harry Tien 👋
+### A passionate _Gamer | IT | Freelancer_
 
-**IT enthusiast · Freelancer · Gamer**
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=07F73D&width=435&lines=%E2%8C%A8%EF%B8%8F+Welcome+to+my+Github+profile+!;%F0%9F%97%BF+My+name+is+Harry+Tien." alt="Typing SVG" /></a></p>
+<div>
 
-I enjoy building software and exploring AI, cloud infrastructure, and computer networks.
+<!-- ![view counter](https://komarev.com/ghpvc/?username=harrytien107&label=Profile%20views&color=0e75b6&style=flat-square) -->
 
-<p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=07F73D&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;Always+learning+and+building." alt="Welcome to my GitHub profile" />
-  </a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=harrytien107&label=&color=11&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
-[![Profile views](https://visitcount.itsvg.in/api?id=harrytien107&label=Profile+views&color=11&icon=3&pretty=true)](https://visitcount.itsvg.in)
+<!-- <div align="right">
+    <img align="right" src="">
+</div> -->
 
-<p>
-  <a href="https://www.facebook.com/tien.harry.505"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://t.me/harrytienthereal"><img src="https://img.shields.io/badge/Telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:zeentien.123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+## Support me !!!!
 
+<img align="right" height="200" src="./assets/anime.gif"  />
+
+Want to Donate? [Click Here](./DONATE.md)
+
+<p><a href="https://buymeacoffee.com/zeentien12y"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zeentien12y" /></a></p><br><br>
+
+### Overview
+
+- I'm currently learning **CCNA**
+
+- How to reach me **zeentien.123@gmail.com**
+
+### Connect with me😉
+
+<div><a href="https://www.facebook.com/tien.harry.505" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="facebook"/></a> <a href="https://discord.com/#4380" target="blank"><img align="center" src="https://img.shields.io/badge/discord-436EEE?style=for-the-badge&logo=discord&logoColor=white" height="35"/></a> <a href="https://t.me/harrytienthereal" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white" height="35"/> </a>
+<!-- <a href="https://linkedin.com/in/99-hoangtran" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://stackoverflow.com/users/11898496" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="facebook"/></a>
+<a href="https://codepen.io/hoanghien0410" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="facebook"/></a>
+<a href="https://wakatime.com/@HoangTran0410" target="blank"><img align="center" src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" alt="wakatime"/></a> -->
 </div>
 
-## About me
-
-- Interested in **AI/ML, networking, cybersecurity, and cloud computing**.
-- Enjoy experimenting with **Python, C++, Rust, and Flutter** projects.
-- Always learning, sharing, and turning ideas into working software.
-- Reach me at **[zeentien.123@gmail.com](mailto:zeentien.123@gmail.com)**.
-
-## Languages and tools 🛠️
+### Languages and Tools 🛠
 
 <table>
   <tr>
@@ -50,26 +57,32 @@ I enjoy building software and exploring AI, cloud infrastructure, and computer n
     <td align="center"><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40" /></a></td>
     <td align="center"><a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40" /></a></td>
     <td align="center"><a href="https://microsoft.com/powershell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40" /></a></td>
+    <td></td>
   </tr>
 </table>
 
-## GitHub stats 📈
+### GitHub Stats 📈
+
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrytien107&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="harrytien107" /></a> </p> -->
+
+<!-- ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=harrytien107&show_icons=true&locale=en&theme=tokyonight)
+![github-readme-streak-stats](https://github-readme-streak-stats-eight.vercel.app/?user=harrytien107&theme=tokyonight&ring=EB5454)
+![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=harrytien107&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight) -->
 
 <p align="center">
-  <a href="https://github.com/harrytien107">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harrytien107&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="Harry Tien's GitHub stats" />
-  </a>
+<a href="https://github.com/harrytien107">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harrytien107&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
 
-  <a href="https://github.com/harrytien107?tab=repositories">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=harrytien107&count_private=true&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight" alt="Most used languages" />
-  </a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=harrytien107&count_private=true&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight"/>
   
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=harrytien107&theme=tokyonight&ring=EB5454" alt="GitHub contribution streak" />
-</p>
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=harrytien107&theme=tokyonight&ring=EB5454"/>
 
-## Coding activity 👩‍💻
+### Activity 👩‍💻
 
+<!-- ![Harry Tien's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=harrytien107&theme=tokyonight) -->
+
+<!-- First Waka stats section -->
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%2026%20mins-blue?style=flat)
 
@@ -97,20 +110,9 @@ No AI Coding Activity Tracked This Week
 
 <!--START_SECTION:waka-alt-->
 <!--END_SECTION:waka-alt-->
-## Anime and music 🎮
+### My Anilist & Spotify Stats 🎮
 
-![AniList and Spotify metrics](./github-metrics.svg)
+<!-- Anilist and Spotify Metrics -->
+![Metrics](./github-metrics.svg)
 
-## Support my work
-
-<img align="right" height="160" src="./assets/anime.gif" alt="Anime illustration" />
-
-If you'd like to support my projects, you can [view donation options](./DONATE.md) or visit my Buy Me a Coffee page.
-
-<a href="https://buymeacoffee.com/zeentien12y"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a>
-
-<br clear="right" />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer decoration" />
-</p>
+ <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer">
